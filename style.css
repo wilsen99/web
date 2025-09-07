@@ -1,0 +1,29 @@
+body {
+    font-family: comic sans ms, cursive, sans-serif;
+    background: url('gambar/bg.jpeg');
+    background-size: cover;
+}
+
+h1, h2{
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 10px auto;
+    width: 220px;
+    height: 310px;
+    object-fit:cover;
+}
+
+table {
+    margin: 20px auto;
+    background: #a1d1e4d8;
+    border-radius: 10px;
+    box-shadow: 0 4px 9px #070606;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 8px 16px;
+    color: #000000;
+}
